@@ -1,6 +1,6 @@
 "use client";
 
-import { H1, Slogen } from "@/app/components/style/Font.styled";
+import { H1, Slogen } from "@/app/components/style/Fonts.styled";
 import {
   Container,
   LoggedInContainer,

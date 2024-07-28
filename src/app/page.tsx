@@ -1,5 +1,5 @@
 import { Container } from "@/app/components/style/Container.styled";
-import { H1 } from "@/app/components/style/Font.styled";
+import { H1 } from "@/app/components/style/Fonts.styled";
 
 import Nav from "@/app/components/Nav";
 import SignInSection from "@/app/components/SignInSection";

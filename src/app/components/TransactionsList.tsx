@@ -12,7 +12,7 @@ import {
   TableRow,
 } from "@/app/components/style/Table.styled";
 import { AccountForm } from "@/app/components/AccountForm";
-import { H2 } from "@/app/components/style/Font.styled";
+import { H2 } from "@/app/components/style/Fonts.styled";
 import { Trash2 } from "lucide-react";
 
 interface ApiResponse {
